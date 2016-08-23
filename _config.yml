@@ -1,0 +1,14 @@
+layout_spectrum: 0.8975945122074336
+typography_spectrum: 0.6802357188425958
+color:
+  brandStrength: 0.641620600130409
+  lightness: 0.5384353911504149
+  saturation: 0.9185268876608461
+  rhythmicContrast: 0.028864253545179963
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: MHS Events
