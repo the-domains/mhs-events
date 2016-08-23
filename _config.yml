@@ -12,5 +12,9 @@ color:
     - '#00A388'
 layout_spectrum: 0.8975945122074336
 name: MHS Events
+navigation:
+  - name: Mile High Sounds
+    url: www.milehighsounds.com
+    type: external
 title: Events & Happenings
 description: Mile High Sounds
