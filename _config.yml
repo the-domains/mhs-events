@@ -1,22 +1,36 @@
-typography_spectrum: 0.6802357188425958
-color:
-  brandStrength: 0.641620600130409
-  lightness: 0.5384353911504149
-  saturation: 0.9185268876608461
-  rhythmicContrast: 0.028864253545179963
-  brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+name: MHS Events
+favicon: null
 layout_spectrum: 0.8975945122074336
+typography_spectrum: 0.6802357188425958
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/58f5aab6-f4d0-47e1-aba9-713c8989cfaf.png
-name: MHS Events
 navigation:
   - name: Mile High Sounds
     url: www.milehighsounds.com
     type: external
 title: Events & Happenings
 description: Mile High Sounds
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.641620600130409
+  lightness: 0.5384353911504149
+  saturation: 0.9185268876608461
+  rhythmicContrast: 0.028864253545179963
+purpose: []
