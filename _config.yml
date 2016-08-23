@@ -1,4 +1,3 @@
-layout_spectrum: 0.8975945122074336
 typography_spectrum: 0.6802357188425958
 color:
   brandStrength: 0.641620600130409
@@ -11,4 +10,6 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.8975945122074336
 name: MHS Events
+title: Events & Happenings
