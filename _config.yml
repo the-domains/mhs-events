@@ -11,6 +11,8 @@ color:
     - '#79BD8F'
     - '#00A388'
 layout_spectrum: 0.8975945122074336
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58f5aab6-f4d0-47e1-aba9-713c8989cfaf.png
 name: MHS Events
 navigation:
   - name: Mile High Sounds
